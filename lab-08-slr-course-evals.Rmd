@@ -1,6 +1,7 @@
 ---
 title: "Lab 8 - Grading the professor, Pt. 1"
 subtitle: "Modelling with a single predictor"
+author: "Hailie Mathews"
 output: html_document
 link-citations: true
 ---
